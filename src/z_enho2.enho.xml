@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_ENHO" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <TOOL>HOOK_IMPL</TOOL>
+   <SHORTTEXT>Test</SHORTTEXT>
+   <ORIGINAL_OBJECT>
+    <PGMID>R3TR</PGMID>
+    <ORG_OBJ_TYPE>CLAS</ORG_OBJ_TYPE>
+    <ORG_OBJ_NAME>CL_GUI_FRONTEND_SERVICES</ORG_OBJ_NAME>
+    <ORG_MAIN_TYPE>CLAS</ORG_MAIN_TYPE>
+    <ORG_MAIN_NAME>CL_GUI_FRONTEND_SERVICES</ORG_MAIN_NAME>
+    <PROGRAMNAME>CL_GUI_FRONTEND_SERVICES======CP</PROGRAMNAME>
+   </ORIGINAL_OBJECT>
+   <ENHANCEMENTS>
+    <ENH_HOOK_IMPL>
+     <PROGRAMNAME>CL_GUI_FRONTEND_SERVICES======CP</PROGRAMNAME>
+     <EXTID>1</EXTID>
+     <ID>1</ID>
+     <ENHMODE>D</ENHMODE>
+     <FULL_NAME>\TY:CL_GUI_FRONTEND_SERVICES\ME:GUI_UPLOAD\SE:BEGIN\EI</FULL_NAME>
+     <SOURCE>
+      <item>*</item>
+     </SOURCE>
+    </ENH_HOOK_IMPL>
+   </ENHANCEMENTS>
+   <SPACES>
+    <item>
+     <FULL_NAME>\TY:CL_GUI_FRONTEND_SERVICES\ME:GUI_UPLOAD\SE:BEGIN\EI</FULL_NAME>
+     <SPACES>
+      <item>0</item>
+     </SPACES>
+    </item>
+   </SPACES>
+  </asx:values>
+ </asx:abap>
+</abapGit>
